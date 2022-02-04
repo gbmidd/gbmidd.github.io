@@ -1,0 +1,23 @@
+
+main:
+  - title: "Experience"
+    url: /resume/
+  - title: "Legal Tech"
+    url: /legal-tech/    
+  - title: "How-to"
+    url: /how-to/
+  - title: "Tips & Tricks"
+    url: /tips/
+
+
+lt-pages:
+  - title: Legal Tech
+    children:
+      - title: "Democratization of AI"
+        url: /legal-tech/democratization
+      - title: "Humans in the Loop"
+        url: /legal-tech/hil
+      - title: "Inline Technology"
+        url: /legal-tech/inline
+      - title: "Securing Data"
+        url: /legal-tech/secure
