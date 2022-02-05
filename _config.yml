@@ -1,3 +1,4 @@
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -84,10 +85,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/gbmidd"
+      url: "https://twitter.com/milehigh_ai"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/milehigh_ai"
+      url: "https://www.linkedin.com/in/gbmidd"
 
 analytics:
   provider: "google-gtag"

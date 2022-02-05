@@ -19,7 +19,7 @@ For a small group like ours, the idea of designing -- much less training -- a mo
 
 ## Pretrained Models
 
-Training an advanced transformer model requires billions of pieces of training data, and access to extremely powerful compute -- on the scale of a datacenter.  This is out of reach for all but the largest Silicon Valley firms, who recognize that the **applications** of those models are driven as by large players as by small business.  As a result, model specifications and parameter values **after training** have been made available to anyone interested.
+Training an advanced transformer model requires billions of pieces of training data, and access to extremely powerful compute -- on the scale of a datacenter.  This is out of reach for all but the largest Silicon Valley firms, who recognize that the **applications** of those models are driven as much by large players as by small business.  As a result, model specifications and parameter values **after training** have been made available to anyone interested.
 
 There is an exception to this -- given the capability of OpenAI's GPT-3 to generate real-sounding language, access to it was restricted until OpenAI was confident it could detect misuse.
 {: .notice--danger}

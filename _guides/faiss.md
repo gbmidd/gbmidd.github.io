@@ -47,8 +47,8 @@ res = faiss.StandardGpuResources()
 gpu_index = faiss.index_cpu_to_gpu(res, 0, index)
 
 # Structure index, then add vectors
-gpu_index.train(vectors)
-gpu_index.add(vectors)
+gpu_index.train(vectors.astype('float32'))
+gpu_index.add(vectors.astype('float32'))
 ```
 
 Now that we have our index built, let's move it back to a CPU for lookup -- in the event that the machine hosting the index doesn't have a GPU.  We'll also build a map so that we can reconstruct elements of the index.  Let's also save it.
