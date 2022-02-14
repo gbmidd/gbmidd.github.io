@@ -36,8 +36,15 @@ feature_row:
     url: "/legal-tech/secure"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+  - image_path: /assets/images/shovel.jpg
+    alt: "etl"
+    title: "Finding Language"
+    excerpt: "Unearth relevant text from a mountain of data"
+    url: "/legal-tech/etl"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 ---
 
 Below are some notes I've written on the softer side of legal tech: namely, experiences I've gained working in the Innovation Lab of a large law firm.  There are some subtleties that distinguish it from Silicon Valley tech.
 
-{% include feature_row %}
+{% include feature_row id="feature_row" type="left" %}

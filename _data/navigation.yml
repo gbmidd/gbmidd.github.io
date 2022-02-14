@@ -21,3 +21,5 @@ lt-pages:
         url: /legal-tech/inline
       - title: "Securing Data"
         url: /legal-tech/secure
+      - title: "Gather In-house Data"
+        url: /legal-tech/etl

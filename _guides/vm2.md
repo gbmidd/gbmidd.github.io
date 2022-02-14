@@ -5,6 +5,8 @@ excerpt: "Safely handle user-supplied code"
 date:   2022-01-10 17:31:15 -0700
 categories: howto
 read_time: true
+# header:
+#   teaser: "/assets/images/etl.svg"
 ---
 
 [Puppeteer](https://github.com/puppeteer/puppeteer) is a tool for programmatically interacting with websites.  We use it as a way to provide automation for services that may not provide an API, and we'd like to do it in a way where our puppeteer instance is centralized and easy to manage.  Therefore we've deployed a pod in our environment which hosts a Node.js server running express, accepting puppeteer code supplied by other services and returns the result.
