@@ -18,9 +18,9 @@ layouts_gallery:
     alt: "single layout with comments and related posts"
 ---
 
-I'm a knowledge professional living in Northern Colorado, designing and building automation technology for the legal industry.  
+I'm a knowledge professional living in Northern Colorado, [designing and building automation technology](assets/resume.pdf) for the legal industry.  
 
-I have a PhD in engineering and a BA in economics, and I'm especially interested in the systems-level perspective of a challenge: what's the business need, what solution meets it, and what technology best delivers it?
+I have a PhD in engineering and a BA in economics, and I'm especially interested in the **systems-level view** of a challenge: what's the business need, what solution meets it, and what technology best delivers it?
 
 I enjoy running long distances, maintaining our cars and our home, and cooking dinner with my wife.
 
